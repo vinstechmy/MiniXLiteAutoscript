@@ -52,19 +52,19 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 
 </b>
 
-## ⏩ AUTOSCRIPT ALL IN ONE EXAMPLE ⏪
+## ⏩ MINI XLITE AUTOSCRIPT EXAMPLE ⏪
 <b>
 </b>
 <br>
 
 </b>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/210133517-42c399cc-955b-4aa9-a609-ea28f5a36b7a.png" width="400" title="Autoscript-Lite">
+<img src="https://user-images.githubusercontent.com/82468311/210149894-f4645fe4-c16f-43b7-b73d-9d07d3e68015.png" width="400" title="Autoscript-Lite">
 </p>
 
 </b>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/210133588-2ca3097a-735c-4b29-b3fa-bda0e310ee3d.png" width="400" title="Autoscript-Lite">
+<img src="https://user-images.githubusercontent.com/82468311/210149918-ca060c66-1120-42a2-b596-d8f9f1627547.png" width="400" title="Autoscript-Lite">
 </p>
 
 ## ⏩ BUY ME A COFFEE ? ⏪
