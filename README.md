@@ -47,7 +47,7 @@
 ♦️ Installation Link<br>
 
   ```html
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://cdn.discordapp.com/attachments/1031207510033571960/1060481385653084191/setup.sh && chmod +x setup.sh && ./setup.sh
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://cdn.discordapp.com/attachments/1062751609450401813/1062751643684311070/setup.sh && chmod +x setup.sh && ./setup.sh
   ```
 
 </b>
