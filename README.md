@@ -32,6 +32,7 @@
 ✅ CHECK CREATED CONFIG <br>
 ✅ AUTOMATIC CLEAR LOG <br>
 ✅ AUTOMATIC VPS REBOOT <br>
+✅ BACKUP VPS DATA BY TELEGRAM BOT <br>
 ✅ BACKUP & RESTORE <br></br>
 
 ♦️ For Debian 10 Only For First Time Installation (Update Repo) <br>
