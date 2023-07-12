@@ -13,11 +13,15 @@ echo -e "[ ${green}INFO${NC} ] Update Starting Now . . ."
 echo ""
 sleep 1
 cd /usr/bin
+rm menu
 rm get-backres
 rm backupmenu
+rm nf
 
+wget -O menu "${Git_Profile}/MENU/menu.sh" && chmod +x /usr/bin/menu
 wget -O get-backres "${Git_Profile}/OTHERS/get-backres.sh" && chmod +x /usr/bin/get-backres
 wget -O backupmenu "${Git_Profile}/MENU/backupmenu.sh" && chmod +x /usr/bin/backupmenu
+wget -O nf "https://raw.githubusercontent.com/vinstechmy/MediaUnlockerTest/main/media.sh" && chmod +x /usr/bin/nf
 cd
 
 sleep 1
