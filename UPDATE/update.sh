@@ -33,7 +33,7 @@ sleep 2
 clear
 rm update.sh
 # // script version check
-serverV=$( curl -sS https://raw.githubusercontent.com/vinstechmy/MiniXLiteAutoscript/main/UPDATE/version)
+serverV=$( curl -sS https://raw.githubusercontent.com/vinstechmy/MiniXLiteAutoscript/main/UPDATE/mini_xlite)
 echo "$serverV" > /home/ver
 echo ""
 echo -e "[ ${green}INFO${NC} ] Successfully Up To Date!"
